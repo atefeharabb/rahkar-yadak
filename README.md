@@ -1,22 +1,19 @@
-# راهکار یدک — فروشگاه قطعات خودرو
+#Rahkar Yadak | راهکار یدک
 
-## نمایش دمو روی GitHub Pages
-این مخزن شامل یک پیش‌نمایش ایستا در فایل `index.html` است.
+A modern online platform designed to make finding and purchasing automotive spare parts easier, faster, and more convenient.
 
-1. فایل ZIP را روی دستگاه خود از حالت فشرده خارج کنید.
-2. تمام فایل‌ها و پوشه‌های داخل آن (از جمله `index.html` و پوشه‌های `public`، `views` و ...) را در ریشه مخزن GitHub قرار دهید؛ خود فایل ZIP را به‌تنهایی آپلود نکنید.
-3. در مخزن به مسیر **Settings → Pages** بروید.
-4. در قسمت **Build and deployment**، گزینه **Deploy from a branch** را انتخاب کنید.
-5. Branch را روی `main` و Folder را روی `/(root)` قرار دهید و **Save** را بزنید.
-6. چند دقیقه صبر کنید و آدرس نمایش‌داده‌شده در همان صفحه Pages را باز کنید.
+Rahkar Yadak provides a user-friendly shopping experience where customers can explore automotive parts, discover suitable products, and find the components they need for their vehicles.
 
-**مهم:** فایل `index.html` در ریشه مخزن قرار دارد و پیش‌نمایش ظاهری سایت را نشان می‌دهد. GitHub Pages نمی‌تواند سرور Node.js/Express، قالب‌های EJS یا دیتابیس SQLite را اجرا کند؛ بنابراین ورود، سبد خرید واقعی، سفارش، پرداخت و پنل مدیریت در دمو Pages فعال نیستند.
+Features
 
-## اجرای نسخه کامل
-برای اجرای نسخه کامل به هاست یا سروری با Node.js 18+ نیاز است:
-```bash
-npm install
-npm run seed
-npm start
-```
-قبل از انتشار نسخه واقعی، متغیرهای محیطی و رمزهای مدیر را تنظیم کنید. پرداخت این پروژه نمایشی است.
+* Online spare parts catalog
+* Organized product categories
+* Easy product search
+* Detailed product information
+* User-friendly interface
+* Responsive design
+* Convenient online shopping experience
+
+About
+
+Rahkar Yadak is a digital solution focused on simplifying the automotive spare parts shopping process by connecting customers with the products they need through an accessible and efficient online platform.
