@@ -1,4 +1,4 @@
-#Rahkar Yadak | راهکار یدک
+Rahkar Yadak | راهکار یدک
 
 A modern online platform designed to make finding and purchasing automotive spare parts easier, faster, and more convenient.
 
